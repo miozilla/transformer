@@ -25,6 +25,20 @@ transformer : HuggingFace # Transformer # AWS Sagemaker Studio Lab
 
 ![transformer009.png](./media/transformer009.png)
 
+![transformer010.png](./media/transformer010.png)
+
+![transformer011.png](./media/transformer011.png)
+
+![transformer012.png](./media/transformer012.png)
+
+![transformer013.png](./media/transformer013.png)
+
+![transformer014.png](./media/transformer014.png)
+
+![transformer015.png](./media/transformer015.png)
+
+![transformer016.png](./media/transformer016.png)
+
 
 ## CI/CD in Progress...
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
