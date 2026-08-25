@@ -4,6 +4,29 @@ transformer : HuggingFace # Transformer # AWS Sagemaker Studio Lab
 ## Objective
 - Learn what Transformer models can do and use the first tool from the 🤗 Transformers library: the pipeline() function.
 
+## Transformer architecture
+- 1. Encoder-only
+- 2. Decoder-only
+- 3. Encoder-Decoder (sequence-to-sequence)
+
+## Transformer Key Components
+- 1. Input Embeddings
+- 2. Self‑Attention Mechanism
+- 3. Multi‑Head Attention
+- 4. Feed‑Forward Networks
+- 5. Residual Connections & Layer Normalization
+
+## Modern Transformer Variant
+- GPT‑5
+- -Claude
+- Llama
+- Gemini
+- Vision Transformers (ViT)
+
+## Modern tokenizers
+- BPE (Byte Pair Encoding)
+- WordPiece
+- SentencePiece
 
 # Transformers
 
