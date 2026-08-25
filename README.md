@@ -18,7 +18,7 @@ transformer : HuggingFace # Transformer # AWS Sagemaker Studio Lab
 
 ## Modern Transformer Variant
 - GPT‑5
-- -Claude
+- Claude
 - Llama
 - Gemini
 - Vision Transformers (ViT)
