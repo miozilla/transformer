@@ -4,6 +4,9 @@ transformer : HuggingFace # Transformer # AWS Sagemaker Studio Lab
 ## Objective
 - Learn what Transformer models can do and use the first tool from the 🤗 Transformers library: the pipeline() function.
 
+![transformer000a.png](./media/transformer000a.png)
+
+![transformer000b.png](./media/transformer000b.png)
 
 # Transformers
 
